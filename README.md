@@ -1,2 +1,2 @@
 # ArcGISSampleDesktop
-C# sample for ArcGIS Desktop
+Sample for ArcGIS Desktop
